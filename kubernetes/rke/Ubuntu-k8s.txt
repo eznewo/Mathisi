@@ -1,0 +1,1 @@
+# This is the instaruction I use to install kuberenetes using rke  
