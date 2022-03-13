@@ -1,2 +1,0 @@
-https://github.com/ruanyf/simple-bash-scripts
-
