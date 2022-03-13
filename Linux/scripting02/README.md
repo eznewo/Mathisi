@@ -1,1 +1,2 @@
 https://github.com/ruanyf/simple-bash-scripts
+https://github.com/ruanyf/simple-bash-scripts/tree/master/scripts
