@@ -6,4 +6,6 @@
 ansible all -m shell -a "shutdown now" -b
 
 # This one will shutdown the Ansible controle node
-sudo shutdown now 
+sudo shutdown now
+
+echo " All remote nodes and controler nodes are shutdown " 
