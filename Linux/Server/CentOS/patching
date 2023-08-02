@@ -1,0 +1,16 @@
+# Patching a Server or Update Security Patch in Linux
+
+# to check updates
+	$ sudo yum check-update
+
+# to list updates available 
+	$ sudo yum check-pdateinfo
+
+# To apply updates
+	$ sudo yum update
+
+
+# Kernel security update need system reboot
+	$ sudo reboot now 
+
+
