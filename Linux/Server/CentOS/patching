@@ -1,4 +1,4 @@
-# Patching a Server or Update Security Patch in Linux
+## Patching a Server or Update Security Patch in Linux
 
 # to check updates
 	$ sudo yum check-update
